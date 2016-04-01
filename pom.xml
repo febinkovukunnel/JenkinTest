@@ -8,6 +8,6 @@
     <artifactId>JenkinTest</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
-    <description>JenkinTest is a part of CUFA Research</description>
+    <description>JenkinTest is a part of CUFA India Research</description>
     
 </project>
