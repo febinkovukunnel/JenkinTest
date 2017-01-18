@@ -9,8 +9,9 @@
 <html>
 <head>
     <title></title>
+    <script src="resources/knockout-3.4.0.js"></script>
 </head>
 <body>
- Hello..
+ Hello..hgkjhkjhkj
 </body>
 </html>
